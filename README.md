@@ -2,7 +2,6 @@
 
 - Frontend Developer and Tester
 - You can contact me at [german.nasyrov.95@mail.ru](mailto:german.nasyrov.95@mail.ru) or [t.me/German_Nasyrov](https://t.me/German_Nasyrov)
-- I'm currently working on [Electronic trading platform ETPRF](https://etprf.ru)
 
 ### Skills
 
@@ -121,8 +120,16 @@
       width="36"
       height="36"
       alt="Microsoft SQL Server" /></a
-    >
+  ><a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://icon.icepanel.io/Technology/svg/Jest.svg"
+      width="36"
+      height="36"
+      alt="Jest" /></a
+  >
 </p>
+
+
 
 ### Socials
 
