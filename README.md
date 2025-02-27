@@ -1,6 +1,6 @@
 # Hello 👋 
 
-- Frontend Developer and Tester
+- Frontend Developer
 - You can contact me at [german.nasyrov.95@mail.ru](mailto:german.nasyrov.95@mail.ru) or [t.me/German_Nasyrov](https://t.me/German_Nasyrov)
 
 ### Skills
