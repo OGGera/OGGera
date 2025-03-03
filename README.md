@@ -155,7 +155,7 @@
       />
     </picture>
   </a>
-  <a href="https://www.github.com/OGGera" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/German-Nasyrov" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
